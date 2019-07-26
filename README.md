@@ -7,3 +7,6 @@
 - [ ] Visit stackedit.io
 - [ ] Start making your README.md in this editor
 - [ ] save this file to your repo
+## Exercise 3 - First commit
+- [ ] Add the file to your repo
+- [ ] Commit and push
