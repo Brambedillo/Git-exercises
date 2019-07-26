@@ -10,3 +10,7 @@
 ## Exercise 3 - First commit
 - [ ] Add the file to your repo
 - [ ] Commit and push
+## Exercise 4 - Merge conflict
+- [ ] Make a new line and commit that to the new branch
+- [ ] Cause a merge conflict!
+- [ ] Resolve that merge conflict
